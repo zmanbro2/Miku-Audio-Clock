@@ -10,8 +10,6 @@ I'm very new to programming, so my code might be a bit bad lol.
 
 The program is simple enough that I don't think it matters that much. 
 
-Criticism is always welcome, though. 
-
  
 
 Miku voice provided by u/Kenshin90991 on Reddit 
